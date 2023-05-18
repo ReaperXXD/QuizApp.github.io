@@ -1,0 +1,1 @@
+This is a project about making a Quiz app using html/css/javascripts with the DOM manipulation method.
